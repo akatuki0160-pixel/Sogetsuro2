@@ -1,0 +1,3 @@
+/* 湊月楼：カフェ（#cafe）セクションと、そこへのリンクを非表示 */
+#cafe,
+a[href$="#cafe"]{display:none!important}
