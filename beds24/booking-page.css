@@ -1,0 +1,3 @@
+/* 湊月楼：予約フォームの内側余白を広げる */
+#bookingpage{padding:32px 40px 40px}
+@media (max-width:767px){#bookingpage{padding:24px 20px 32px}}
